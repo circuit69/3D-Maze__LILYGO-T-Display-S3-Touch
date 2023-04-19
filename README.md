@@ -8,11 +8,11 @@ To play:
 
 The touch screen is divided into 3 sections across the width
 
- left side  =  turn left
+left side  =  turn left
  
 right side  =  turn right
 
-    center  =  move forward
+center  =  move forward
 
 Pressing the buttons on the board will show you a map of the maze
 
