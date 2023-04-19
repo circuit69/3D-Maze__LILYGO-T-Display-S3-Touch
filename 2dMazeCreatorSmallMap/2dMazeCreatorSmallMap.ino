@@ -1,6 +1,6 @@
 /***************************************************
   Maze editor with smaller map by Joel Krueger 3-28-2023
-  Lilygo T-Display-S3
+  Lilygo T-Display-S3 Touch
 
   The maze is based on an array containing 32 bytes, each row in the maze is one byte,
   so the maze is 32 rows tall.
