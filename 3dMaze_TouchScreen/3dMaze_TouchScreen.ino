@@ -1,6 +1,6 @@
 /***************************************************
   3D maze by Joel Krueger 3-28-2023
-  Lilygo T-DISPLAY-S3
+  Lilygo T-DISPLAY-S3 Touch
 
   Find your way out of the maze using the touch screen,
   get to the opening on one of the edges of the maze.
