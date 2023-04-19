@@ -6,9 +6,9 @@ On start up you will see displayed on the screen a 3D perspective of a maze. Thi
 
 To play:
 The touch screen is divided into 3 sections across the width
-	 left side  =  turn left
-	right side  =  turn right
-	    center  =  move forward
+ left side  =  turn left
+right side  =  turn right
+    center  =  move forward
 
 Pressing the buttons on the board will show you a map of the maze
 
