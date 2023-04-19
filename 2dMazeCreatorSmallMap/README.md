@@ -1,4 +1,4 @@
-2D maze creator
+# 2D Maze Creator
 
 This sketch will allow you create or edit the layout of the mazes. The mazes are an array of 32 bit numbers with 1 = wall, 0 = blank.
 
